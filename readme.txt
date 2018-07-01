@@ -31,7 +31,8 @@ Board sample:
 								O HOME BOARD 	Freed: 0
 
 TO PLAY:
-Type in two numbers, the first number is the position of the piece you want to move, and the second is the number of spots you want to move it by; for example, if you were O and you typed (1,6) you would move a piece at position 1 6 spots.
+Type in two numbers, the first number is the position of the piece you want to move, and the second is the number of spots you want to move it by;
+for example, if you were O and you typed (1,6) you would move a piece at position 1 6 spots.
 You can type 1,6 or 1 6 but you cannot type 16, the computer won't know what you mean by that.
 You can undo one move by typing "u" or "undo" but you cannot undo more than the previous move.
 You can finish your turn if you type "f" or "finish" or "d" or "done".  Your turn will finish automatically if you run out of moves.
